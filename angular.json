@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "userforms"
+    }
+  },
+  "defaultProject": "userforms",
+  "cli": {
+    "analytics": "9add24f0-7969-43fa-85f2-74556b31f853"
+  }
 }
